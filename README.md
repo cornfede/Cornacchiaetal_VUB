@@ -12,14 +12,12 @@ GENERAL INFORMATION
                 Fondazione Eni Enrico Mattei, Climate Change Adaptation Group (ADAPT@VE), 
                 Palazzo Ca’ Tron, Santa Croce 1957, 30135 Venice, Italy
 		Email: federico.cornacchia@unive.it
-
-	B. Author
+        B. Author
 		Name: Koen de Koning
 		Institution: Wageningen University, Wageningen University and Research, 
                 Environmental Systems Analysis Group, P.O. box 47, 6700 AA Wageningen, 
                 The Netherlands, ORCID 0000-0002-2586-0184
 		Email: koen.dekoning@wur.nl
-        
         C. Author
 		Name: Okmyung Bin
 		Institution: Department of Economics, East Carolina University, Greenville, 
