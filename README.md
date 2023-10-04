@@ -20,7 +20,7 @@ GENERAL INFORMATION
                 The Netherlands, ORCID 0000-0002-2586-0184
 		Email: koen.dekoning@wur.nl
         
-  C. Author
+        C. Author
 		Name: Okmyung Bin
 		Institution: Department of Economics, East Carolina University, Greenville, 
                 NC 27858, United States 
